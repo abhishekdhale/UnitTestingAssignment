@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment Overview
 
 Welcome to the CSC 581 Assignment. This repository has been created to provide a hands-on learning experience with Java, JUnit, Jenkins, and Git. Whether you're a beginner or looking to enhance your skills, this project is designed to help you grasp the fundamentals and gain practical experience.
@@ -21,3 +22,7 @@ TestMathUtil.java
 5. **Contribute:** Feel free to contribute to the project by fixing bugs, adding new features, or improving documentation. Create a branch, make your changes, and submit a pull request.
 
 Happy coding and learning! If you have any questions or encounter issues, don't hesitate to reach out.
+=======
+# UnitTestingAssignment
+#Checking Jenkins per commit
+>>>>>>> 60e253835d8ca2a9ba841ce105936b59797c0b43
