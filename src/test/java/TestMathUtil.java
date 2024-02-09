@@ -4,9 +4,9 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+class TestMathUtil {
 
-public class MathUtilsTest {
-	private MathUtils mathUtils;
+private MathUtils mathUtils;
 	
 	
 
@@ -53,5 +53,6 @@ public class MathUtilsTest {
         assertEquals(-2.0, mathUtils.divide(10, -5), 0.001);
         assertEquals(-1.0, mathUtils.divide(0, 0), 0.001); // Division by zero
    }
+
 
 }
